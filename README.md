@@ -1,4 +1,4 @@
-# regression_nutriscore
+# Régression du NutriScore
 
 Ce projet consiste en une POC d'une application utlisant les données OpenFactFood.  
 Il s'agit d'obtenir une information synthétique du bénéfice pour la santé à partir des données présentes sur les emballages des produits alimentaires.  
